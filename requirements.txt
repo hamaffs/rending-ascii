@@ -1,0 +1,9 @@
+fastapi==0.109.0
+uvicorn==0.27.0
+librosa==0.10.1
+numpy==1.26.3
+opencv-python==4.9.0.80
+moviepy==1.0.3
+python-multipart==0.0.6
+pillow==10.2.0
+tqdm==4.66.1
